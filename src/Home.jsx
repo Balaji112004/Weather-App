@@ -70,7 +70,7 @@ export default function Home() {
               placeholder='Enter your City'
               onChange={(e) => setinp(e.target.value)}
             />
-            <i className='bx bx-search text-xl bg-white ml-4 p-3 rounded-2xl'></i>
+            <button type='submit'><i className='bx bx-search text-xl bg-white ml-4 p-3 rounded-2xl'></i></button>
           </center>
         </form>
       </div>
