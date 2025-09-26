@@ -26,7 +26,7 @@ export default function Home() {
       .then(res => res.json())
       .then(datas => {
         if (datas.cod !== 200) {
-          alert("City not found ❌");
+          alert("City not found");
           setcond(false);
           return;
         }
