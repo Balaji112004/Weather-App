@@ -86,7 +86,7 @@ export default function Home() {
 
           <div>
             {/* <center> */}
-              <div className='grid grid-cols-2 h-[100px] w-80 lg:w-[800px] mt-[100px] lg:gap-20 ml-4 lg:ml-[395px]'>
+              <div className='grid grid-cols-2 h-[100px] w-80 lg:w-[800px] mt-[100px] lg:mt-[80px] lg:gap-20 ml-4 lg:ml-[395px]'>
 
                 <div className='grid grid-cols-2  h-[100px] lg:w-[250px]'>
                     {/* <div></div> */}
